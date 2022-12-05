@@ -1,3 +1,6 @@
 [submodule "portofolio"]
 	path = portofolio
 	url = https://github.com/bqirr01/Portofolio
+[submodule "bookshelf"]
+	path = bookshelf
+	url = https://github.com/bqirr01/BookShelf.in.git
